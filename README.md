@@ -1,1 +1,2 @@
 # zzj-repository
+just test
